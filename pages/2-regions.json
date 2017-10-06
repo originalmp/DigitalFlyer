@@ -1,0 +1,82 @@
+[{
+	"x":25,
+	"y":10,
+	"width":156,
+	"height":100,
+	"id": "LPLEN00071",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_369&item_id=109881"
+		}
+},
+
+{
+	"x":230,
+	"y":10,
+	"width":135,
+	"height":110, 	
+	"id": "LPASU00028",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1198&item_id=103309"
+		}
+},
+
+{
+	"x":430,
+	"y":10, 	
+	"id": "LPHEW00067",
+	"width":135,
+	"height":110,
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1199&item_id=111247"
+		}
+},
+
+{
+	"x":460,
+	"y":205,
+	"width":108,
+	"height":60, 	
+	"id": "LPICA00002",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_375&item_id=104941"
+		}
+},
+
+{
+	"x":300,
+	"y":205,
+	"width":105,
+	"height":60, 	
+	"id": "LPLEN00079",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1198&item_id=109890"
+		}
+},
+
+{
+	"x":155,
+	"y":205,
+	"width":105,
+	"height":60, 	
+	"id": "LPMSI00067",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1198&item_id=108879"
+		}
+}
+
+
+
+
+]

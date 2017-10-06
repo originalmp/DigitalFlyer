@@ -1,0 +1,160 @@
+[{
+	"x":5,
+	"y":5,
+	"width":355,
+	"height":65,
+	"id": "logo",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.ordinateurscanada.com"
+		}
+},
+{
+	"x":5,
+	"y":660,
+	"width":325,
+	"height":100,
+	"id": "ccrewards",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/rewards.php"
+		}
+},
+
+{
+	"x":368,
+	"y":40,
+	"width":105,
+	"height":90,
+	"id": "storelocation",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/location.php"
+		}
+},
+{
+	"x":17,
+	"y":136.5,
+	"width":146,
+	"height":100,
+	"id": "TVLG001269",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=238_1209_711_1182&item_id=090552"
+		}
+},
+{
+	"x":210,
+	"y":138.5,
+	"width":140,
+	"height":90,
+	"id": "LPMSI00070",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1199&item_id=109652"
+		}
+},
+{
+	"x":440,
+	"y":180,
+	"width":100,
+	"height":85,
+	"id": "SSHEW00005",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=179_1229_1088&item_id=108602"
+		}
+},
+{
+	"x":10,
+	"y":324,
+	"width":140,
+	"height":100,
+	"id": "LPICA00001",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_368&item_id=104939"
+		}
+},
+{
+	"x":240,
+	"y":324,
+	"width":60,
+	"height":100,
+	"id": "CLZTE00001",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=30_415&item_id=099686"
+		}
+},
+{
+	"x":390,
+	"y":355,
+	"width":115,
+	"height":120,
+	"id": "PRXR000018",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=34_1170_454&item_id=080756"
+		}
+},
+{
+	"x":20,
+	"y":510,
+	"width":130,
+	"height":100,
+		"id": "xxx",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=22_1195_700_1103&item_id=097505"
+		}
+},
+{
+	"x":185,
+	"y":504,
+	"width":100,
+	"height":97,
+		"id": "xxx",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=4_1210_65&item_id=102827"
+		}
+},
+{
+	"x":300,
+	"y":510,
+	"width":120,
+	"height":90,
+		"id": "xxx",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=16_565&item_id=111846"
+		}
+},
+{
+	"x":427,
+	"y":500,
+	"width":156,
+	"height":85,
+		"id": "xxx",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/search_results.php?itemcode=DCFU001394,DCFU001385,DCFU001198,DCFU001150,DCFU001145,DCFU001135"
+		}
+}
+
+
+]
