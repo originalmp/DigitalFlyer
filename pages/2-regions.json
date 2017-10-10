@@ -10,7 +10,6 @@
 			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_369&item_id=109881"
 		}
 },
-
 {
 	"x":230,
 	"y":10,
@@ -74,7 +73,165 @@
 		{
 			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_1198&item_id=108879"
 		}
+},
+
+{
+	"x":20,
+	"y":205,
+	"width":105,
+	"height":60, 	
+	"id": "LPASU00046",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=710_577_368&item_id=105247"
+		}
+},
+
+{
+	"x":20,
+	"y":270,
+	"width":250,
+	"height":40, 	
+	"id": "SWMS003775",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=530&item_id=086104"
+		}
+},
+
+{
+	"x":310,
+	"y":270,
+	"width":275,
+	"height":40, 	
+	"id": "SWMS003944",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=528&item_id=088049"
+		}
+},
+
+{
+	"x":13,
+	"y":360,
+	"width":125,
+	"height":80, 	
+	"id": "TVLESON001",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=238_1209_711_1182&item_id=098773"
+		}
+},
+
+{
+	"x":242,
+	"y":360,
+	"width":110,
+	"height":80, 	
+	"id": "TVLGE00031",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=238_1209_711_1182&item_id=110200"
+		}
+},
+
+{
+	"x":422,
+	"y":360,
+	"width":115,
+	"height":80, 	
+	"id": "TVLGE00031",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=238_1209_711_1182&item_id=110200"
+		}
+},
+
+{
+	"x":13,
+	"y":440,
+	"width":230,
+	"height":80, 	
+	"id": "HTLGE00001",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=232_1094&item_id=105585"
+		}
+},
+
+{
+	"x":242,
+	"y":448,
+	"width":110,
+	"height":58, 	
+	"id": "HTLGE00002",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=232_1094&item_id=105586"
+		}
+},
+
+{
+	"x":422,
+	"y":460,
+	"width":115,
+	"height":95, 	
+	"id": "CCRT000001",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=44_689&item_id=094796"
+		}
+},
+
+{
+	"x":13,
+	"y":625,
+	"width":110,
+	"height":120, 	
+	"id": "CLZTE00003",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=30_415&item_id=107665"
+		}
+},
+
+{
+	"x":240,
+	"y":620,
+	"width":65,
+	"height":68, 	
+	"id": "CLZTE00003",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=30_415&item_id=107665"
+		}
 }
+,
+
+{
+	"x":370,
+	"y":620,
+	"width":65,
+	"height":68, 	
+	"id": "CLZTE00003",
+	"class":"link",
+	"data":
+		{
+			"url": "http://www.canadacomputers.com/product_info.php?cPath=30_415&item_id=107665"
+		}
+}
+
 
 
 

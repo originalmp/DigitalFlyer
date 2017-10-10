@@ -87,6 +87,7 @@ function loadRegions(page, element) {
 		});
 }
 
+
 // Add region
 
 function addRegion(region, pageElement) {
@@ -102,7 +103,6 @@ function addRegion(region, pageElement) {
 		width: Math.round(region.width/pageWidth*100)+'%',
 		height: Math.round(region.height/pageHeight*100)+'%'
 	}).attr('region-data', $.param(region.data||''));
-
 
 	reg.appendTo(pageElement);
 }
